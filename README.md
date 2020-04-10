@@ -4,6 +4,8 @@ An Employee Management System built for CSE326 with React.js, Express.js, MongoD
 
 ### Video Demonstration: https://youtu.be/cdLAl_PW9pY
 
+### Project Report: https://drive.google.com/file/d/19NSLprEbtIZvBW1Vec1tJv-Ts0AHPqIc/view
+
 # Run the local servers:
 
 start frontend with the command:
