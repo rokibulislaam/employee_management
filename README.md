@@ -25,5 +25,3 @@ $cd backend && yarn && yarn dev
 ```
 
 **Note:** Node.js => 10 required.
-
-    enter code here
